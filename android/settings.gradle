@@ -1,0 +1,3 @@
+rootProject.name = 'stripeSample'
+
+include ':app'
